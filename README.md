@@ -1,0 +1,3 @@
+# Scripts-zabbix
+
+teste
